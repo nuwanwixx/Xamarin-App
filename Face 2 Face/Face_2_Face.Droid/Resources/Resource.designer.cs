@@ -66,9 +66,6 @@ namespace Face_2_Face.Droid
 			// aapt resource value: 0x7f05000b
 			public const int BtnSignUp = 2131034123;
 			
-			// aapt resource value: 0x7f05000d
-			public const int absoluteLayout1 = 2131034125;
-			
 			// aapt resource value: 0x7f05000a
 			public const int btnForgot = 2131034122;
 			
@@ -84,8 +81,32 @@ namespace Face_2_Face.Droid
 			// aapt resource value: 0x7f050002
 			public const int forgetPasswordEnterEmail = 2131034114;
 			
+			// aapt resource value: 0x7f05000e
+			public const int signUpEmail = 2131034126;
+			
+			// aapt resource value: 0x7f05000f
+			public const int signUpEmailText = 2131034127;
+			
 			// aapt resource value: 0x7f05000c
-			public const int scrollView1 = 2131034124;
+			public const int signUpName = 2131034124;
+			
+			// aapt resource value: 0x7f05000d
+			public const int signUpNameText = 2131034125;
+			
+			// aapt resource value: 0x7f050010
+			public const int signUpPassword = 2131034128;
+			
+			// aapt resource value: 0x7f050011
+			public const int signUpPasswordText = 2131034129;
+			
+			// aapt resource value: 0x7f050012
+			public const int signUpReEnterPassword = 2131034130;
+			
+			// aapt resource value: 0x7f050013
+			public const int signUpReEnterPasswordText = 2131034131;
+			
+			// aapt resource value: 0x7f050014
+			public const int signUpSubmitBtn = 2131034132;
 			
 			// aapt resource value: 0x7f050000
 			public const int textView1 = 2131034112;

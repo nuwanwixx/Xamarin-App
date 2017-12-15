@@ -60,41 +60,47 @@ namespace Face_2_Face.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050005
-			public const int BtnLogin = 2131034117;
-			
-			// aapt resource value: 0x7f050007
-			public const int BtnSignUp = 2131034119;
-			
-			// aapt resource value: 0x7f05000a
-			public const int absoluteLayout1 = 2131034122;
-			
-			// aapt resource value: 0x7f050006
-			public const int btnForgot = 2131034118;
-			
-			// aapt resource value: 0x7f050002
-			public const int editTextEmail = 2131034114;
-			
-			// aapt resource value: 0x7f050004
-			public const int editTextPassword = 2131034116;
-			
 			// aapt resource value: 0x7f050009
-			public const int scrollView1 = 2131034121;
-			
-			// aapt resource value: 0x7f050008
-			public const int textView1 = 2131034120;
+			public const int BtnLogin = 2131034121;
 			
 			// aapt resource value: 0x7f05000b
-			public const int textView2 = 2131034123;
+			public const int BtnSignUp = 2131034123;
 			
-			// aapt resource value: 0x7f050001
-			public const int textViewEmail = 2131034113;
+			// aapt resource value: 0x7f05000d
+			public const int absoluteLayout1 = 2131034125;
 			
-			// aapt resource value: 0x7f050000
-			public const int textViewLogin = 2131034112;
+			// aapt resource value: 0x7f05000a
+			public const int btnForgot = 2131034122;
+			
+			// aapt resource value: 0x7f050006
+			public const int editTextEmail = 2131034118;
+			
+			// aapt resource value: 0x7f050008
+			public const int editTextPassword = 2131034120;
 			
 			// aapt resource value: 0x7f050003
-			public const int textViewPassword = 2131034115;
+			public const int forget = 2131034115;
+			
+			// aapt resource value: 0x7f050002
+			public const int forgetPasswordEnterEmail = 2131034114;
+			
+			// aapt resource value: 0x7f05000c
+			public const int scrollView1 = 2131034124;
+			
+			// aapt resource value: 0x7f050000
+			public const int textView1 = 2131034112;
+			
+			// aapt resource value: 0x7f050001
+			public const int textView2 = 2131034113;
+			
+			// aapt resource value: 0x7f050005
+			public const int textViewEmail = 2131034117;
+			
+			// aapt resource value: 0x7f050004
+			public const int textViewLogin = 2131034116;
+			
+			// aapt resource value: 0x7f050007
+			public const int textViewPassword = 2131034119;
 			
 			static Id()
 			{
@@ -110,10 +116,13 @@ namespace Face_2_Face.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int ForgotPassword = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int SignUp = 2130903041;
+			public const int Main = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int SignUp = 2130903042;
 			
 			static Layout()
 			{

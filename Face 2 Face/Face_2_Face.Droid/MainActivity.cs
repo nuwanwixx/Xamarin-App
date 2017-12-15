@@ -64,6 +64,11 @@ namespace Face_2_Face.Droid
                 SetContentView(Resource.Layout.SignUp);
                // throw new NotImplementedException();
             };
+
+            forgotBtn.Click += delegate
+            {
+                SetContentView(Resource.Layout.ForgotPassword);
+            };
         }
 
         

@@ -26,6 +26,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/signUpEmail" />
     <EditText
+        android:inputType="textEmailAddress"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/signUpEmailText" />
@@ -36,6 +37,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/signUpPassword" />
     <EditText
+        android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/signUpPasswordText" />
@@ -46,6 +48,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/signUpReEnterPassword" />
     <EditText
+        android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/signUpReEnterPasswordText" />
